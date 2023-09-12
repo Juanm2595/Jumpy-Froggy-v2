@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Inicio_Carga.unity
+    guid: b684c56afc0a147488df3a709aa3ad9c
+  - enabled: 1
+    path: Assets/Scenes/Inicio_Menu.unity
+    guid: 662d34537e399f84b99a31a468896667
+  - enabled: 1
+    path: Assets/Scenes/Nivel_1.unity
+    guid: 272fb08678f923c44bbf7a1576a455a7
+  - enabled: 1
+    path: Assets/Scenes/Nivel_2.unity
+    guid: 408d4e75a6bd6a044a774857c9c1156a
+  - enabled: 1
+    path: Assets/Scenes/Nivel_3.unity
+    guid: 41f710cfaf3c0db4d9e809ab56ef907a
+  - enabled: 1
+    path: Assets/Scenes/Opciones.unity
+    guid: 67cc3f725b8619742a92f8b721e24e57
+  - enabled: 1
+    path: Assets/Scenes/Ayuda.unity
+    guid: 887d55952b83e8645917e86cfe92b4a9
+  - enabled: 1
+    path: Assets/Scenes/Creditos.unity
+    guid: ce81322f4bcad70418d5dd13c0b91641
+  - enabled: 1
+    path: Assets/Scenes/Felicidades.unity
+    guid: 734d86967e88e2d419f8d135ff1b62bb
+  - enabled: 1
+    path: Assets/Scenes/ElegirNiveles.unity
+    guid: fff090c063da8f14e820d09efbdd0e2e
+  m_configObjects: {}
